@@ -14,5 +14,7 @@ int main()
         }
         i++;
 
-    } while (i <= n);
+
+    } 
+    while (i <= n);
 }

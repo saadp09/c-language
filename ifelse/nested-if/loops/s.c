@@ -5,7 +5,7 @@ int main()
 
     do
     {
-        printf(" \Ascii value of %c is = %d", ch, ch);
+        printf(" \n Ascii value of %c is = %d", ch, ch);
         ch++;
     } while (ch <= 'z');
 }
